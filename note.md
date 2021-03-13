@@ -1,0 +1,5 @@
+- LINKS
+  - https://keras.io/examples/structured_data/movielens_recommendations_transformers/
+    - 廣岡さんがおすすめと言っていた
+  - https://pytorch.org/tutorials/beginner/transformer_tutorial.html
+    - PyTorchのTransformerのチュートリアル
